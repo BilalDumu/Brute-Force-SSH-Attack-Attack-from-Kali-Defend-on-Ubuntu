@@ -45,7 +45,7 @@
 <p><b>Brute-force attacks are one of the most common attack types. Attackers try to guess user passwords using wordlists and automation. In organizations, SOC analysts are responsible for detecting and blocking these attempts.</b></p>
 
 <img src="https://i.ibb.co/d0dmWZMj/kali-1.png" alt="Hydra Installation">
-<p><b>🔹 Installs Hydra, a popular brute-force attack tool.</b></p>
+<p><b>🔹 Installs Hydra, A popular brute-force attack tool.</b></p>
 
 <img src="https://i.ibb.co/Gvgtc6ts/kali-2.png" alt="Hydra Attack Command">
 <p><b>🔹 <code>-l [ubuntu username]</code> – Specifies the username.</b></p>
